@@ -13,7 +13,9 @@
 - 💬 Ask me about **anything coding, design, or IT-related!**  
 - 📫 How to reach me: **karlashleybesa@gmail.com**  
 - ⚡ Fun fact: **I enjoy basketball, music, reading, and creating websites.**
+  
 ---
+
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
 
@@ -23,7 +25,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 </div>
+
 ---
+
 <h3 align="center">💻 Languages and Tools</h3>
 
 <p align="center"> 
@@ -46,7 +50,9 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
+
 ---
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -60,7 +66,9 @@
   <img src="https://komarev.com/ghpvc/?username=krxley&color=blueviolet" alt="Profile Views" />  
   <img src="https://streak-stats.demolab.com/?user=krxley&theme=react-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 ---
+
 <h3 align="center">✨ About Me</h3>
 <p align="center">
 I'm Karl, a BSIT student with a strong passion for coding, technology, and creativity.  

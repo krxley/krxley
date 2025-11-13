@@ -3,8 +3,6 @@
   <img src="banner.png" alt="Karl Ashley S. Besa Banner" width="100%" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+✨)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Karl Ashley S. Besa <img height="40" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></h1>
 <h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>
 
@@ -71,4 +69,4 @@ Always learning, always building. 🚀
 </p>
 
 **Last Updated:** 11/10/2025  
-👨‍💻 [krxley](https://github.com/krxley)
+👨‍💻 [krxley](https://github.com/krxley) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+✨)](https://git.io/typing-svg)

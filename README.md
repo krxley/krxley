@@ -7,7 +7,7 @@
   <img height="40" src="https://cdn3.emoji.gg/emojis/774805-kittydance.gif" alt="Left Pet GIF">
   <img height="40" src="https://cdn3.emoji.gg/emojis/2900-pixel-octopus.gif" alt="Right Pet GIF">
   <img height="40" src="https://cdn3.emoji.gg/emojis/35902-viciouscreature.gif" alt="Right Pet GIF">
-  <img height="40" src="https://cdn3.emoji.gg/emojis/79230-parrotdance.gif" alt="Right Pet GIF">
+  <img height="40" src="https://cdn3.emoji.gg/emojis/69397-sappydance1.gif" alt="Right Pet GIF">
 </h1>
 
 <h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>

@@ -19,9 +19,9 @@
 
 ---
 
-<h2 align="center">🌐 Socials</h2>
+<h2 align="left">🌐 Socials</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/krxley">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
@@ -41,9 +41,9 @@
 
 ---
 
-<h3 align="center">💻 Languages and Tools</h3>
+<h3 align="left">💻 Languages and Tools</h3>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
@@ -81,9 +81,9 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
+<p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=krxley&theme=react&show_icons=true&include_all_commits=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxley&theme=react&layout=compact" />
 </p>

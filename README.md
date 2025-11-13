@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="banner.png" alt="Karl Ashley S. Besa Banner" width="100%" />
+  <img src="banner/banner.png" alt="Karl Ashley S. Besa Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Karl Ashley S. Besa <img height="40" src="https://cdn3.emoji.gg/emojis/774805-kittydance.gif"></h1>

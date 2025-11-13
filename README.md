@@ -1,66 +1,77 @@
-<!-- 🌙 DARK THEME GITHUB README FOR KARL ASHLEY S. BESA -->
+<!-- Banner Image -->
+<p align="center">
+  <img src="banner.png" alt="Karl Ashley S. Besa Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Karl Ashley S. Besa <img height="40" src="https://cdn3.emoji.gg/emojis/774805-kittydance.gif"></h1>
-<h3 align="center">🖥️ A 19-year-old BSIT student and aspiring front-end developer from the Philippines 🇵🇭</h3>
+<h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>
+
+- 🎓 I'm a **19-year-old BSIT student** passionate about technology and programming.  
+- 🔭 I’m currently working on my **personal and school projects using VB.NET, HTML, CSS, and JavaScript.**  
+- 🌱 I’m currently learning **front-end development, UI/UX design, and database management.**  
+- 👯 I’m looking to collaborate on **web and software development projects.**  
+- 💬 Ask me about **anything related to coding, design, or IT studies!**  
+- 📫 How to reach me: **karlashleybesa@gmail.com**  
+- ⚡ Fun fact: **I enjoy basketball, music, reading, and creating websites.**
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Currently studying **BS in Information Technology**  
-- 🌱 Learning **HTML, CSS, JavaScript, and VB.NET**  
-- 💻 Passionate about **front-end development & UI/UX design**  
-- 📫 Reach me at: **karlashleybesa@gmail.com**  
-- ⚡ Fun fact: **I love designing, gaming, and coding at night**  
-
----
-
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">🌐 Connect with me:</h3>
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourlink)
-[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourlink)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlink)
-[![Gmail](https://img.shields.io/badge/Gmail-303030?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:karlashleybesa@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karlashleybesa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 </div>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center">💻 Languages and Tools:</h3>
 
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"/>
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://dotnet.microsoft.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=krxley&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxley&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=krxley&theme=tokyonight&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxley&theme=tokyonight&layout=compact" />
 </p>
 
 ---
 
-<h3 align="center">🎨 Quote</h3>
-
-<p align="center"><i>"Dream big, code smart, and create beyond the screen."</i></p>
+<h3 align="center">✨ About Me</h3>
+<p align="center">
+I'm Karl, a BSIT student with a strong passion for coding, technology, and creativity.  
+I love exploring how design and development come together to make digital ideas come to life.  
+Always learning, always building. 🚀
+</p>
 
 ---
 
-<p align="center">⭐ <a href="https://github.com/krxley">krxley</a> — Last Edited on: 11/13/2025</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+✨)](https://git.io/typing-svg)
+
+---
+
+**Last Updated:** 11/13/2025  
+👨‍💻 [krxley](https://github.com/krxley)

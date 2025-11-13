@@ -6,6 +6,8 @@
 <h1 align="center"> <img height="40" src="https://cdn3.emoji.gg/emojis/774805-kittydance.gif"></h1>
 <h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>
 
+### Current Status Quo:
+
 - 🎓 I'm a **19-year-old BSIT student** passionate about technology and programming.  
 - 🔭 I’m currently working on **personal & school projects using VB.NET, HTML, CSS, and JavaScript.**  
 - 🌱 I’m currently learning **front-end development, UI/UX design, and database management.**  

@@ -76,7 +76,11 @@ I love exploring how design and development come together to make digital ideas 
 Always learning, always building. 🚀
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+✨)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+✨" alt="Typing SVG"/>
+  </a>
+</p>
 
 **Last Updated:** 11/10/2025  
 👨‍💻 [krxley](https://github.com/krxley)

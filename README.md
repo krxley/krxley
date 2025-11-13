@@ -4,8 +4,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Karl Ashley S. Besa <img height="40" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></h1>
-<h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>
-
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
 
@@ -15,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 </div>
+<h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>
 
 - 🎓 I'm a **19-year-old BSIT student** passionate about technology and programming.  
 - 🔭 I’m currently working on **personal & school projects using VB.NET, HTML, CSS, and JavaScript.**  

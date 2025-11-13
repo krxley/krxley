@@ -6,16 +6,6 @@
 <h1 align="center">Hi 👋, I'm Karl Ashley S. Besa <img height="40" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></h1>
 <h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>
 
-- 🎓 I'm a **19-year-old BSIT student** passionate about technology and programming.  
-- 🔭 I’m currently working on **personal & school projects using VB.NET, HTML, CSS, and JavaScript.**  
-- 🌱 I’m currently learning **front-end development, UI/UX design, and database management.**  
-- 👯 I’m looking to collaborate on **web and software development projects.**  
-- 💬 Ask me about **anything coding, design, or IT-related!**  
-- 📫 How to reach me: **karlashleybesa@gmail.com**  
-- ⚡ Fun fact: **I enjoy basketball, music, reading, and creating websites.**
-
----
-
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
 
@@ -25,6 +15,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 </div>
+
+- 🎓 I'm a **19-year-old BSIT student** passionate about technology and programming.  
+- 🔭 I’m currently working on **personal & school projects using VB.NET, HTML, CSS, and JavaScript.**  
+- 🌱 I’m currently learning **front-end development, UI/UX design, and database management.**  
+- 👯 I’m looking to collaborate on **web and software development projects.**  
+- 💬 Ask me about **anything coding, design, or IT-related!**  
+- 📫 How to reach me: **karlashleybesa@gmail.com**  
+- ⚡ Fun fact: **I enjoy basketball, music, reading, and creating websites.**
 
 ---
 

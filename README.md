@@ -57,8 +57,11 @@
 <h3 align="center">📈 Extra Stats & Visitors</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krxley&color=blueviolet" alt="Profile Views" />  
   <img src="https://streak-stats.demolab.com/?user=krxley&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krxley&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---

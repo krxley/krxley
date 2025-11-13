@@ -3,7 +3,7 @@
   <img src="banner/my banner.gif" alt="Karl Ashley S. Besa Banner" width="100%" />
 </p>
 
-<h1 align="center"> <img height="40" src="https://cdn3.emoji.gg/emojis/774805-kittydance.gif"></h1>
+<h1 align="center"> <img height="40" src="https://cdn3.emoji.gg/emojis/774805-kittydance.gif" src="https://cdn3.emoji.gg/emojis/2900-pixel-octopus.gif"></h1>
 <h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>
 
 ### Current Status Quo:

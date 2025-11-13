@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **web and software development projects.**  
 - 💬 Ask me about **anything coding, design, or IT-related!**  
 - 📫 How to reach me: **karlashleybesa@gmail.com**
-- 👀 See my [Personal Portfolio](https://krxley.github.io/Karl-Portfolio/) to get more info
+- 👀 See my [Personal Portfolio](https://krxley.github.io/Group-2-Portfolio/besa.html) to get more info
 - ⚡ Fun fact: **I enjoy basketball, music, reading, watching movies, and creating websites.**
 
 ---

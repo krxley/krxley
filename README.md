@@ -73,5 +73,5 @@ Always learning, always building. 🚀
   </a>
 </p>
 
-**Inspired by:** [carlcastanas](https://github.com/carlcastanas)
 **Last Updated:** 11/10/2025  
+**Inspired by:** [carlcastanas](https://github.com/carlcastanas)

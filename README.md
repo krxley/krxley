@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karl <img height="40" src="[https://emoji.gg/assets/emoji/7333-parrotdance.gif](https://cdn3.emoji.gg/emojis/774805-kittydance.gif)"></h1>
+<h1 align="center">Hi 👋, I'm Karl <img height="40" src="[[https://emoji.gg/assets/emoji/7333-parrotdance.gif](https://cdn3.emoji.gg/emojis/774805-kittydance.gif)](https://cdn3.emoji.gg/emojis/774805-kittydance.gif)"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **Python Course**

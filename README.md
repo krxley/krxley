@@ -48,12 +48,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/krxley">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=krxley&theme=react&show_icons=true&include_all_commits=true&hide_border=true" alt="krxley's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/krxley">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxley&theme=react&layout=compact&langs_count=8&hide_border=true" alt="krxley's Most Used Languages"/>
-  </a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=krxley&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxley&theme=react&layout=compact" />
 </p>
 
 <h3 align="center">📈 Extra Stats & Visitors</h3>

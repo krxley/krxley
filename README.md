@@ -3,6 +3,8 @@
   <img src="banner.png" alt="Karl Ashley S. Besa Banner" width="100%" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+✨)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Karl Ashley S. Besa <img height="40" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></h1>
 <h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>
 
@@ -14,8 +16,6 @@
 - 📫 How to reach me: **karlashleybesa@gmail.com**  
 - ⚡ Fun fact: **I enjoy basketball, music, reading, and creating websites.**
 
----
-
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
 
@@ -25,8 +25,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 </div>
-
----
 
 <h3 align="center">💻 Languages and Tools</h3>
 
@@ -51,16 +49,12 @@
   </a>
 </p>
 
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=krxley&theme=react&show_icons=true&include_all_commits=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxley&theme=react&layout=compact" />
 </p>
-
----
 
 <h3 align="center">📈 Extra Stats & Visitors</h3>
 
@@ -69,20 +63,12 @@
   <img src="https://streak-stats.demolab.com/?user=krxley&theme=react-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
 <h3 align="center">✨ About Me</h3>
 <p align="center">
 I'm Karl, a BSIT student with a strong passion for coding, technology, and creativity.  
 I love exploring how design and development come together to make digital ideas come to life.  
 Always learning, always building. 🚀
 </p>
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+✨)](https://git.io/typing-svg)
-
----
 
 **Last Updated:** 11/10/2025  
 👨‍💻 [krxley](https://github.com/krxley)

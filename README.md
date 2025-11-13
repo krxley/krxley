@@ -1,22 +1,22 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="banner/banner.png" alt="Karl Ashley S. Besa Banner" width="100%" />
+  <img src="banner.png" alt="Karl Ashley S. Besa Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Karl Ashley S. Besa <img height="40" src="https://cdn3.emoji.gg/emojis/774805-kittydance.gif"></h1>
 <h3 align="center">An aspiring Software Developer & BSIT college student from the Philippines 🇵🇭</h3>
 
 - 🎓 I'm a **19-year-old BSIT student** passionate about technology and programming.  
-- 🔭 I’m currently working on my **personal and school projects using VB.NET, HTML, CSS, and JavaScript.**  
+- 🔭 I’m currently working on **personal & school projects using VB.NET, HTML, CSS, and JavaScript.**  
 - 🌱 I’m currently learning **front-end development, UI/UX design, and database management.**  
 - 👯 I’m looking to collaborate on **web and software development projects.**  
-- 💬 Ask me about **anything related to coding, design, or IT studies!**  
+- 💬 Ask me about **anything coding, design, or IT-related!**  
 - 📫 How to reach me: **karlashleybesa@gmail.com**  
 - ⚡ Fun fact: **I enjoy basketball, music, reading, and creating websites.**
 
 ---
 
-<h3 align="center">🌐 Connect with me:</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
@@ -28,7 +28,7 @@
 
 ---
 
-<h3 align="center">💻 Languages and Tools:</h3>
+<h3 align="center">💻 Languages and Tools</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -53,9 +53,20 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=krxley&theme=tokyonight&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxley&theme=tokyonight&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=krxley&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krxley&theme=react&layout=compact" />
+</p>
+
+---
+
+<h3 align="center">📈 Extra Stats & Visitors</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krxley&color=blueviolet" alt="Profile Views" />  
+  <img src="https://streak-stats.demolab.com/?user=krxley&theme=react-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -73,5 +84,5 @@ Always learning, always building. 🚀
 
 ---
 
-**Last Updated:** 11/13/2025  
+**Last Updated:** 11/10/2025  
 👨‍💻 [krxley](https://github.com/krxley)

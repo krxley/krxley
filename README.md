@@ -14,7 +14,7 @@
 
 ### Current Status Quo:
 
-- 🎓 I'm a **19-year-old BSIT student** passionate about technology and programming.  
+- 🎓 I'm a **20-year-old BSIT student** passionate about technology and programming.  
 - 🔭 I’m currently working on **personal & school projects using VB.NET, HTML, CSS, and JavaScript.**  
 - 🌱 I’m currently learning **front-end development, UI/UX design, and database management.**  
 - 👯 I’m looking to collaborate on **web and software development projects.**  
